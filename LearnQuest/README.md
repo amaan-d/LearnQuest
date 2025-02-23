@@ -2,10 +2,9 @@
 
 Follow these steps to set up and run the project locally.
 
-### 📌 Prerequisites
+### 📌 DO THIS!
 
-Ensure you have [Node.js](https://nodejs.org/) installed.
-
-### 📥 Installation
 ```sh
-npm run dev
+$ npm install
+$ npm install @sveltestrap/sveltestrap
+$ npm run dev
